@@ -15,14 +15,14 @@ tags:
 ## node.js相关配置
 - 下载node.js
 - 进入本地repo，依次执行如下命令：
-
-
 ```
 $ npm install -g hexo
 $ npm install --save hexo-deployer-git
 $ hexo init
 ```
 - 这样hexo初始化已经完成。
+
+
 ## hexo配置
 - 修改当前repo下的_config.yml文件
 
