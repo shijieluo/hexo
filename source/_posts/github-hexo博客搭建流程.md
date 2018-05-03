@@ -10,9 +10,12 @@ tags:
 - 登录github.com创建repo:<username>.github.io
 - 创建hexo和master分支，并将hexo分支设置为默认分支。
 - git clone repo到本地
+
+
 ## node.js相关配置
 - 下载node.js
 - 进入本地repo，依次执行如下命令：
+
 
 ```
 $ npm install -g hexo
@@ -26,6 +29,8 @@ $ hexo init
   仔细阅读相关说明之后进行更改基础配置
 - 修改deploy标签，将hexo与github仓库关联
 - 还可以在hexo官网上下载博客主题
+
+
 ## hexo配置置顶博文
 
 ```
